@@ -11,6 +11,12 @@
       "text": "take whats mine",
       "day": "all time",
       "reminder": true
+    },
+    {
+      "text": "break da law",
+      "day": "maybe sunday",
+      "reminder": false,
+      "id": 3
     }
   ]
 }
